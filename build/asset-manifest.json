@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b65ff520.css",
+    "main.js": "/static/js/main.b7a31ba7.js",
+    "static/js/358.fc869549.chunk.js": "/static/js/358.fc869549.chunk.js",
+    "static/js/422.16c7afb1.chunk.js": "/static/js/422.16c7afb1.chunk.js",
+    "static/js/204.c7539dfc.chunk.js": "/static/js/204.c7539dfc.chunk.js",
+    "static/js/360.aa4f69d9.chunk.js": "/static/js/360.aa4f69d9.chunk.js",
+    "static/js/421.55a81ecd.chunk.js": "/static/js/421.55a81ecd.chunk.js",
+    "static/js/359.d11fdc85.chunk.js": "/static/js/359.d11fdc85.chunk.js",
+    "static/js/163.341aa6ab.chunk.js": "/static/js/163.341aa6ab.chunk.js",
+    "static/js/722.1aa26676.chunk.js": "/static/js/722.1aa26676.chunk.js",
+    "static/js/62.f504e77b.chunk.js": "/static/js/62.f504e77b.chunk.js",
+    "static/media/drink4.gif": "/static/media/drink4.aeea06273af4e79ea5aa.gif",
+    "static/media/grinding.gif": "/static/media/grinding.4a4ba3ae80a62e0d1344.gif",
+    "static/media/rich.gif": "/static/media/rich.e0146fe4cf61d8ada983.gif",
+    "static/media/phoenix.jpg": "/static/media/phoenix.d78269b6e1e8f3da4d8b.jpg",
+    "static/media/money.gif": "/static/media/money.0a840c0142fcb69d3ef1.gif",
+    "static/media/a-new-beginning.jpg": "/static/media/a-new-beginning.73a10ada33ffd5cb26cc.jpg",
+    "static/media/achievement.jpg": "/static/media/achievement.2706ff164f6a35b19e7e.jpg",
+    "index.html": "/index.html",
+    "main.b65ff520.css.map": "/static/css/main.b65ff520.css.map",
+    "main.b7a31ba7.js.map": "/static/js/main.b7a31ba7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b65ff520.css",
+    "static/js/main.b7a31ba7.js"
+  ]
+}

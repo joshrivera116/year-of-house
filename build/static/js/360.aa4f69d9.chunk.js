@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyear_of_horse=self.webpackChunkyear_of_horse||[]).push([[360],{360:(e,a,s)=>{e.exports=s.p+"static/media/drink4.aeea06273af4e79ea5aa.gif"}}]);

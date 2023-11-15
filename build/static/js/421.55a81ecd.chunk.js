@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyear_of_horse=self.webpackChunkyear_of_horse||[]).push([[421],{421:(e,a,s)=>{e.exports=s.p+"static/media/grinding.4a4ba3ae80a62e0d1344.gif"}}]);
